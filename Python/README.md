@@ -1,1 +1,1 @@
-* Python Assignmet 1
+1. Python Assignmet 1
