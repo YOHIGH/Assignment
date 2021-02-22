@@ -11,3 +11,8 @@
 
 * ### Numpy
    *  [Numpy 1](https://github.com/YOHIGH/Data_Science/blob/main/Numpy/Numpy%20.ipynb)
+
+* ### Visualization
+   * [Data Visualization](https://github.com/YOHIGH/Data_Science/blob/main/Visualization/data%20visualization.ipynb)
+   * [Matplotlib](https://github.com/YOHIGH/Data_Science/blob/main/Visualization/Matplotlib.ipynb)
+
