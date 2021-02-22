@@ -8,3 +8,6 @@
        
 * ### Pandas
    *  [Datacleaning Pandas](https://github.com/YOHIGH/Assignment/blob/main/Pandas/Datacleaning%20Pandas.ipynb)
+
+* ### Numpy
+   *  [Numpy 1](https://github.com/YOHIGH/Data_Science/blob/main/Numpy/Numpy%20.ipynb)
